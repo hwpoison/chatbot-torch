@@ -1,0 +1,16 @@
+sentence,tag
+Hola!, saludo
+Buenas, saludo-bienvenida
+Cuanto vale el perro?, pregunta precio de perro
+El perro vale $100, respuesta precio de perro
+Gracias, agradecimiento
+De nada, respuesta de agracedimiento
+Como estas?, pregunta de estado
+Bien por suerte, respuesta de estado
+No entiendo que quieres decir., incertidumbre
+Me alegro, afirmacion alegria
+Gracias, respuesta alegria
+jejeje, risa perversa
+De que te ries?, respuesta risa perversa
+Que haces?, pregunta que haces
+Nada, respuesta que haces
